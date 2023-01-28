@@ -1,5 +1,5 @@
 # Stock-News-Alert
-bunnysaini/Stock-News-Alert
+
 
 ## Features
 A Stock News Update Program that messages you the increase or decrease in % value of the stock and the probable news that caused the fluctuation.
